@@ -20,5 +20,8 @@
   "homepage": "https://github.com/emalherbi/node-console-log#readme",
   "dependencies": {
     "moment": "^2.24.0"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
   }
 }

@@ -1,6 +1,6 @@
 {
-  "name": "node-console-log",
-  "version": "1.0.0",
+  "name": "nodejs-console-log",
+  "version": "1.0.2",
   "description": "console.log in node",
   "main": "index.js",
   "repository": {

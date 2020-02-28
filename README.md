@@ -1,9 +1,9 @@
-# node-console-log
+# nodejs-console-log
 
 ## USAGE
 
 ```bash
-npm i node-console-log --save
+npm i nodejs-console-log --save
 ```
 
 ```js

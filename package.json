@@ -12,7 +12,7 @@
     "console",
     "log"
   ],
-  "author": "Eduardo Malherbi Martins",
+  "author": "Eduardo Malherbi Martins <emalherbi@gmail.com> (http://emalherbi.com)",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/emalherbi/node-console-log/issues"

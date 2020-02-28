@@ -1,0 +1,24 @@
+{
+  "name": "node-console-log",
+  "version": "1.0.0",
+  "description": "console.log in node",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emalherbi/node-console-log.git"
+  },
+  "keywords": [
+    "node",
+    "console",
+    "log"
+  ],
+  "author": "Eduardo Malherbi Martins",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emalherbi/node-console-log/issues"
+  },
+  "homepage": "https://github.com/emalherbi/node-console-log#readme",
+  "dependencies": {
+    "moment": "^2.24.0"
+  }
+}

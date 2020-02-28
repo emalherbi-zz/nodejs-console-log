@@ -7,7 +7,7 @@ npm i nodejs-console-log --save
 ```
 
 ```js
-const console = require('./index.js');
+const console = require('nodejs-console-log');
 
 console.dtFormat('DD/MM/YYYY HH:mm:ss');
 
